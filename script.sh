@@ -3,3 +3,4 @@
 ls -l
 pwd
 date
+tree
